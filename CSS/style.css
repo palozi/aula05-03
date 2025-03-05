@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    border-color: rgb(238, 25, 25);
+    /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+}
+.topo{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    /* text-align:center; */
+
+}
+.navBar{
+    padding: 15px;
+}
+.navBar a{
+    text-decoration: none;
+}
+.navBar ul li{
+    list-style: none;
+    padding: 0;
+}
+
+
